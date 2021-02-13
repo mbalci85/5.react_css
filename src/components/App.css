@@ -1,0 +1,16 @@
+.parent {
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+.title {
+    color:forestgreen
+}
+
+.child {
+    color:greenyellow
+}
+
+#parap {
+    color:orangered
+}
